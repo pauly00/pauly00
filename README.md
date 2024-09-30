@@ -1,6 +1,6 @@
 -  👋 Hi, I’m @pauly00
 <!--- 👀 I’m interested in ...-->
--  🌱 I’m currently learning CS, Front-end, Back-end
+-  🌱 I’m currently learning <b>CS</b>, <b>Front-end</b>, <b>Back-end</b>
 <!-- 💞️ I’m looking to collaborate on ... -->
 <!--- 📫 How to reach me ...-->
 <!--- 😄 Pronouns: ...-->
