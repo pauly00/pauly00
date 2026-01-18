@@ -4,7 +4,7 @@
 - **[솔트웨어(주)]** 미래내일 일경험(인턴형) 수료 [2025.07 ~ 2025.08]
 
 ## 📂 Projects
-- **[AI 기반 복지 리포트 자동화 시스템](https://github.com/pauly00/AI-Care-Report-FE)** [2025.07 ~ 2025.08]
+- **[AI 기반 상담 데이터 요약 및 리포트 자동화 시스템](https://github.com/pauly00/AI-Care-Report-FE)** [2025.07 ~ 2025.08]
 - **[동형암호 활용 에너지 사용 분석 시스템](https://github.com/pauly00/Individual_Research_FHE)** [2024.09 ~ 2024.12 / 2025.06 ~ 2025.07]
 
 ## 🛠 Skills
