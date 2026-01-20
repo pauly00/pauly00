@@ -16,11 +16,11 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 <br/>
 
-<!-- spring은 백엔드 공부 후 추가 예정
+<!-- spring은 백엔드 공부 후 추가 예정, React 앞 또는 뒤에 기재
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 -->
 
 ## 🔗 Links
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulryu0329@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-563D7C?style=for-the-badge&logo=github&logoColor=white)](https://pauly00.github.io/self-introduction/)
-[![Solved.ac](https://img.shields.io/badge/Solved.ac-17CE3A?style=for-the-badge&logo=solved.ac&logoColor=white)](https://www.acmicpc.net/user/pauly)
+[![Solved.ac](https://img.shields.io/badge/Solved.ac-17CE3A?style=for-the-badge&logo=solved.ac&logoColor=white)](https://solved.ac/profile/pauly)
