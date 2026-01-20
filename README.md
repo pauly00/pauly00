@@ -7,7 +7,7 @@
 - **[솔트웨어(주)]** 미래내일 일경험(인턴형) 수료 [2025.07 ~ 2025.08]
 
 
-## 🛠 Skills
+## 🛠 Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -21,6 +21,6 @@
 -->
 
 ## 🔗 Links
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulryu0329@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-563D7C?style=for-the-badge&logo=github&logoColor=white)](https://pauly00.github.io/self-introduction/)
-[![Solved.ac](https://img.shields.io/badge/Solved.ac-17CE3A?style=for-the-badge&logo=solved.ac&logoColor=white)](https://solved.ac/profile/pauly)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:paulryu0329@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-563D7C?style=flat-square&logo=github&logoColor=white)](https://pauly00.github.io/self-introduction/)
+[![Solved.ac](https://img.shields.io/badge/Solved.ac-17CE3A?style=flat-square&logo=solved.ac&logoColor=white)](https://solved.ac/profile/pauly)
