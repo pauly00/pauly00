@@ -30,6 +30,5 @@
 
 ## 🔗 Links
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulryu0329@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EA%B2%BD%EB%A1%9D-%EB%A5%98-9670b638b)
 [![Portfolio](https://img.shields.io/badge/Portfolio-563D7C?style=for-the-badge&logo=github&logoColor=white)](https://pauly00.github.io/self-introduction/)
 [![Solved.ac](https://img.shields.io/badge/Solved.ac-17CE3A?style=for-the-badge&logo=solved.ac&logoColor=white)](https://www.acmicpc.net/user/pauly)
