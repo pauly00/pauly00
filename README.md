@@ -23,4 +23,4 @@
 ## 🔗 Links
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:paulryu0329@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-563D7C?style=flat-square&logo=github&logoColor=white)](https://pauly00.github.io/self-introduction/)
-[![Solved.ac](https://img.shields.io/badge/Solved.ac-17CE3A?style=flat-square&logo=solved.ac&logoColor=white)](https://solved.ac/profile/pauly)
+[![Solved.ac](https://img.shields.io/badge/Solved.ac-17CE3A?style=flat-square&logo=solved.ac&logoColor=white)](https://www.acmicpc.net/user/pauly)
